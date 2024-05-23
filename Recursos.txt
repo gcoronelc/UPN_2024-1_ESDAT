@@ -1,0 +1,8 @@
+JAVA CODE CONVENTIONS
+=====================
+
+- https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+- https://www.nea.gov.bh/Attachments/eServices%20Standards/Java_standards_V1.0.pdf
+- https://google.github.io/styleguide/javaguide.html
+- https://www.finoit.com/articles/java-coding-standards-best-practices
+- https://www.oracle.com/java/technologies/javase/codeconventions-programmingpractices.html
