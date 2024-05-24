@@ -1,0 +1,7 @@
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\bin\Debug\ListaSimple.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\obj\Debug\ListaSimple.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana01\ListaSimple\ListaSimple\obj\Debug\ListaSimple.pdb
