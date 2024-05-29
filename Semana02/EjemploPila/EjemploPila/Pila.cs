@@ -10,7 +10,7 @@ namespace EjemploPila
     {
 
         private Nodo tope;
-
+        
         public Pila()
         {
             tope = null;
@@ -21,7 +21,7 @@ namespace EjemploPila
             Nodo nuevo = new Nodo(valor);
             nuevo.Siguiente = tope;
             tope = nuevo;
-        }
+          }
 
         public int Desapilar()
         {
@@ -44,6 +44,45 @@ namespace EjemploPila
         public bool EstaVacia()
         {
             return tope == null;
+        }
+
+        public int Tamanio ()
+        {
+            int tamanio = 0;
+            Nodo auxiliar = tope;
+            while(auxiliar != null)
+            {
+                tamanio++;
+                auxiliar = auxiliar.Siguiente;
+            }
+            return tamanio;
+        }
+
+        public Pila GetPares()
+        {
+            Pila pares = new Pila();
+            Nodo auxiliar = tope;
+            while (auxiliar != null)
+            {
+                if (auxiliar.Valor%2 == 0)
+                {
+                    pares.Apilar(auxiliar.Valor);
+                }
+                auxiliar = auxiliar.Siguiente;
+            }
+
+
+            return pares;
+        }
+
+        public void Imprimir()
+        {
+                      Nodo auxiliar = tope;
+            while (auxiliar != null)
+            {
+                Console.WriteLine(auxiliar.Valor.ToString());
+                auxiliar = auxiliar.Siguiente;
+            }
         }
     }
 }
