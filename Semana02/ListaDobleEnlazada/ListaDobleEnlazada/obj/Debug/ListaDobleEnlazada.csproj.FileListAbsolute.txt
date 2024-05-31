@@ -6,3 +6,10 @@ D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\De
 D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.CoreCompileInputs.cache
 D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
 D:\UPN\ESTRUCTURA DE DATOS\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana02\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
