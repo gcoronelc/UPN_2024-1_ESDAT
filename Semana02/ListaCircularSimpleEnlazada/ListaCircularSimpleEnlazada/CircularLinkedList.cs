@@ -35,6 +35,7 @@ namespace ListaCircularSimpleEnlazada
                     current = current.Next;
                 }
                 current.Next = newNode;
+                head = newNode;
             }
             count++;
         }

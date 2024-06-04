@@ -22,8 +22,10 @@ namespace ListaDobleEnlazada
 
         public void AddFirst(int data)
         {
+            // Crea el nuevo nodo
             Node newNode = new Node(data);
 
+            // Cuando la lista esta vacia
             if (head == null)
             {
                 head = newNode;
@@ -58,9 +60,11 @@ namespace ListaDobleEnlazada
 
         public bool Remove(int data)
         {
+            // Cuando esta vacio
             if (head == null)
                 return false;
 
+            // Cuando se elimina el primero
             if (head.Data == data)
             {
                 head = head.Next;
@@ -72,6 +76,7 @@ namespace ListaDobleEnlazada
                 return true;
             }
 
+            // Elimina un elemento interno
             Node current = head;
             while (current.Next != null)
             {
@@ -101,10 +106,64 @@ namespace ListaDobleEnlazada
             Node current = head;
             while (current != null)
             {
-                Console.Write(current.Data + " ");
+                Console.Write(current.Data + " -> ");
                 current = current.Next;
             }
-            Console.WriteLine();
+            Console.WriteLine( "NULL");
         }
+
+        public void PrintListReverse()
+        {
+            Node current = tail;
+            while (current != null)
+            {
+                Console.Write(current.Data + " -> ");
+                current = current.Previous;
+            }
+            Console.WriteLine("NULL");
+        }
+
+        public int ExtraerDesdeInicio()
+        {
+            if(head == null)
+            {
+                throw new InvalidOperationException("La lista está vacía.");
+            }
+            Node current=head;
+            head=current.Next;
+            current.Next = null;
+            if(head== null)
+            {
+                tail = head;
+            }
+            else
+            {
+                head.Previous = null;
+
+            }
+            return current.Data;
+        }
+
+        public int ExtraerDesdeFinal()
+        {
+            if (tail == null)
+            {
+                throw new InvalidOperationException("La lista está vacía.");
+            }
+            Node current = tail;
+            tail = current.Previous;
+            current.Previous = null;
+            if (tail == null)
+            {
+                head = tail;
+            }
+            else
+            {
+                tail.Next = null;
+
+            }
+            return current.Data;
+        }
+
     }
 }

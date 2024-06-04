@@ -10,22 +10,41 @@ namespace ListaDobleEnlazada
     {
         static void Main(string[] args)
         {
+
             DoublyLinkedList list = new DoublyLinkedList();
-            list.AddFirst(5);
-            list.AddFirst(4);
-            list.AddLast(6);
-            list.AddLast(7);
+            
+            list.AddFirst(50);
+            list.AddFirst(40);
+            list.AddFirst(30);
+            list.PrintList();
 
-            Console.WriteLine("Lista inicial:");
-            list.PrintList();  // Output: Lista inicial: 4 5 6 7
+            list.AddLast(70);
+            list.AddLast(20);
+            list.AddLast(60);
+            list.PrintList();
 
-            list.Remove(5);
+            /*
+            list.PrintListReverse();
+            Console.WriteLine("----------------");
+            int data = list.ExtraerDesdeFinal();
+            data = list.ExtraerDesdeFinal();
+            data = list.ExtraerDesdeFinal();
+            data = list.ExtraerDesdeFinal();
+            data = list.ExtraerDesdeFinal();
+            data = list.ExtraerDesdeFinal();
+            Console.WriteLine(data);
+            list.PrintList();
+            list.PrintListReverse();
+            */
 
-            Console.WriteLine("Lista después de eliminar 5:");
-            list.PrintList();  // Output: Lista después de eliminar 5: 4 6 7
 
-            Console.WriteLine("Número de nodos: " + list.Count);  // Output: Número de nodos: 3
-        
+
+            list.Remove(30);
+            list.Remove(20);
+            list.Remove(60);
+            list.PrintList();
+            list.PrintListReverse();
+
             Console.ReadKey();
         }
     }
