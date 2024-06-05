@@ -1,0 +1,7 @@
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\bin\Debug\Sumatoria.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\bin\Debug\Sumatoria.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\bin\Debug\Sumatoria.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\obj\Debug\Sumatoria.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\obj\Debug\Sumatoria.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\obj\Debug\Sumatoria.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\Sumatoria\Sumatoria\obj\Debug\Sumatoria.pdb
