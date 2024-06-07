@@ -15,6 +15,8 @@ namespace Sumatoria
             Console.WriteLine("SUMATORIA: " + lista.Sumatoria());
             Console.WriteLine("Suma Pares: "+lista.SumaPares());
             Console.WriteLine("Suma Impares: " + lista.SumaImpares());
+            lista.OrdenarAscendente();
+            lista.ImprimirLista();
             Console.ReadKey();
         }
     }

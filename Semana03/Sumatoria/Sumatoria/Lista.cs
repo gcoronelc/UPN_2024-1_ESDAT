@@ -83,6 +83,46 @@ namespace Sumatoria
             return Suma;
         }
 
+        public void OrdenarAscendente()
+        {
+            if (cabeza == null || cabeza.siguiente == null)
+            {
+                return;
+            }
+            int n = contarNodos() - 1;
+            while (n > 0)
+            {
+                Nodo aux = cabeza;
+                bool hayCambios = false;
+                for(int j = 1; j<=n; j++)
+                {
+                    if(aux.dato > aux.siguiente.dato)
+                    {
+                        int temp = aux.dato;
+                        aux.dato = aux.siguiente.dato;
+                        aux.siguiente.dato = temp;
+                        hayCambios = true;
+                    }
+                    aux = aux.siguiente;
+                }
+                if (!hayCambios)
+                {
+                    break;
+                }
+                n--;
+            }
+        }
 
+        private int contarNodos()
+        {
+            int conta = 0;
+            Nodo aux = cabeza;
+            while(aux != null)
+            {
+                conta++;
+                aux = aux.siguiente;
+            }
+            return conta;
+        }
     }
 }

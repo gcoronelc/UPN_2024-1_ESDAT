@@ -1,0 +1,7 @@
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\bin\Debug\SuperMercado.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\bin\Debug\SuperMercado.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\bin\Debug\SuperMercado.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\obj\Debug\SuperMercado.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\obj\Debug\SuperMercado.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\obj\Debug\SuperMercado.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\SuperMercado\SuperMercado\obj\Debug\SuperMercado.pdb
