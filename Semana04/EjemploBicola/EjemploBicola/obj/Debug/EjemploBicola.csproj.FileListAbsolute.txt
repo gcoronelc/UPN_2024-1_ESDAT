@@ -1,0 +1,7 @@
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.exe.config
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.exe
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.pdb
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.csproj.AssemblyReference.cache
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.csproj.CoreCompileInputs.cache
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.exe
+D:\GITHUB\UPN\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.pdb

@@ -1,4 +1,4 @@
-![PROGRAMACION ORIENTADO DE OBJETOS](https://github.com/gcoronelc/UPN_2024_1_ESDAT/blob/main/img/logo.png)
+![ESTRUCTURA DE DATOS](https://github.com/gcoronelc/UPN_2024-1_ESDAT/blob/main/img/logo.png)
 
 # DATOS GENERALES
 
@@ -19,13 +19,8 @@
 
 ## Delegado
 
-- Nombre: 
-- Correo: 
-
-## Subdelegado
-
-- Nombre: 
-- Correo: 
+- Nombre: Hellen Tambillo Borja
+- Correo: n00354317@upn.pe
 
 # RECURSOS UTILES
 

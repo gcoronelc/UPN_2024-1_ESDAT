@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|d:\\github\\upn\\upn_2024-1_esdat\\semana04\\ejemplobicola\\ejemplobicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|solutionrelative:ejemplobicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|d:\\github\\upn\\upn_2024-1_esdat\\semana04\\ejemplobicola\\ejemplobicola\\doublequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|solutionrelative:ejemplobicola\\doublequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|d:\\github\\upn\\upn_2024-1_esdat\\semana04\\ejemplobicola\\ejemplobicola\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A282F5E7-DB8D-40CD-A0E8-54D2C0675B01}|EjemploBicola\\EjemploBicola.csproj|solutionrelative:ejemplobicola\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleQueue.cs",
+              "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\DoubleQueue.cs",
+              "RelativeDocumentMoniker": "EjemploBicola\\DoubleQueue.cs",
+              "ToolTip": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\DoubleQueue.cs",
+              "RelativeToolTip": "EjemploBicola\\DoubleQueue.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:49:27.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\Node.cs",
+              "RelativeDocumentMoniker": "EjemploBicola\\Node.cs",
+              "ToolTip": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\Node.cs",
+              "RelativeToolTip": "EjemploBicola\\Node.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:47:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploBicola\\Program.cs",
+              "ToolTip": "D:\\GITHUB\\UPN\\UPN_2024-1_ESDAT\\Semana04\\EjemploBicola\\EjemploBicola\\Program.cs",
+              "RelativeToolTip": "EjemploBicola\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA2wCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:46:36.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
