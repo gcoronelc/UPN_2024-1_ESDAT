@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace EjemploBicola
 {
     internal class DoubleQueue
     {
-        public Node front;
-        public Node rear;
+        private Node front;
+        private Node rear; 
 
         public DoubleQueue()
         {
@@ -28,6 +29,7 @@ namespace EjemploBicola
             else
             {
                 nuevoNode.next = front;
+                front.prev = nuevoNode;
                 front = nuevoNode;
             }
         }
@@ -86,6 +88,39 @@ namespace EjemploBicola
                 rear.next = null;
             }
             return valor;
+        }
+
+
+        public void ImprimerCola()
+        {
+            if (this.front == null)  
+            {
+                Console.WriteLine("la cola esta vacia");
+                return;
+            }
+            Node actual = this.front;
+            while (actual != null)
+            {
+                Console.Write(actual.value.ToString()+" -> ");
+                actual = actual.next;
+            }
+            Console.WriteLine("Null");
+        }
+
+        public void ImprimerCola2()
+        {
+            if (this.rear == null)
+            {
+                Console.WriteLine("la cola esta vacia");
+                return;
+            }
+            Node actual = this.rear;
+            while (actual != null)
+            {
+                Console.Write(actual.value.ToString() + " -> ");
+                actual = actual.prev;
+            }
+            Console.WriteLine("Null");
         }
     }
 }

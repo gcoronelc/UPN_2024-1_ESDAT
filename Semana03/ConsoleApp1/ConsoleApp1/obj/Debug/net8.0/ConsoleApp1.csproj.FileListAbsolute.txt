@@ -1,0 +1,15 @@
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana03\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

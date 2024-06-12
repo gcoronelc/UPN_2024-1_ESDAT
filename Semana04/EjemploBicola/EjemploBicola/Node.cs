@@ -8,9 +8,9 @@ namespace EjemploBicola
 {
     internal class Node
     {
-        public int value;
-        public Node next;
-        public Node prev;
+        public int value { get; set; }
+        public Node next { get; set; }
+        public Node prev { get; set; }
 
         public Node(int value)
         {
