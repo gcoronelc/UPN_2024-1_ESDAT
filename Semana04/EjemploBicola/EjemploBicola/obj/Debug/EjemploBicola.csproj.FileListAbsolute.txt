@@ -12,3 +12,10 @@ D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Deb
 D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.csproj.CoreCompileInputs.cache
 D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.exe
 D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.pdb
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.exe.config
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.exe
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\bin\Debug\EjemploBicola.pdb
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.csproj.AssemblyReference.cache
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.csproj.CoreCompileInputs.cache
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.exe
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploBicola\EjemploBicola\obj\Debug\EjemploBicola.pdb

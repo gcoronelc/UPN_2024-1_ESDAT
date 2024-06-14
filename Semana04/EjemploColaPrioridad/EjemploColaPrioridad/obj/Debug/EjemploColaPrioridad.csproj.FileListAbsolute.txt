@@ -1,0 +1,7 @@
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\bin\Debug\EjemploColaPrioridad.exe.config
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\bin\Debug\EjemploColaPrioridad.exe
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\bin\Debug\EjemploColaPrioridad.pdb
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\obj\Debug\EjemploColaPrioridad.csproj.AssemblyReference.cache
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\obj\Debug\EjemploColaPrioridad.csproj.CoreCompileInputs.cache
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\obj\Debug\EjemploColaPrioridad.exe
+C:\ProfCoronel\UPN_2024-1_ESDAT\Semana04\EjemploColaPrioridad\EjemploColaPrioridad\obj\Debug\EjemploColaPrioridad.pdb

@@ -27,14 +27,35 @@ namespace EjemploBicola
             //bicola.ImprimerCola2();
 
             // Agregar elementos a la bicola
-            bicola.EnqueueFront(1);
-            bicola.EnqueueFront(2);
-            bicola.EnqueueFront(3);
-            bicola.EnqueueFront(4);
-            bicola.ImprimerCola2();
+            //bicola.EnqueueFront(1);
+            //bicola.EnqueueFront(2);
+            //bicola.EnqueueFront(3);
+            //bicola.EnqueueFront(4);
+            //bicola.ImprimerCola2();
 
-            // Eliminar elementos de la bicola
-            //Console.WriteLine("Elemento eliminado de la cola frontal: " + bicola.DequeueFront());
+            // Desencolar elementos desde la parte frontal
+            //bicola.EnqueueFront(100);
+            //bicola.EnqueueFront(80);
+            //bicola.EnqueueFront(200);
+            //bicola.EnqueueFront(70);
+            //bicola.EnqueueFront(150);
+
+            //Console.WriteLine("Extraer elemento desde la parte frontal:");
+            //Console.WriteLine(bicola.DequeueFront());
+            //Console.WriteLine(bicola.DequeueFront());
+
+
+            // Desencolar elementos desde la parte posterior
+            bicola.EnqueueFront(100);
+            bicola.EnqueueFront(80);
+            bicola.EnqueueFront(200);
+            bicola.EnqueueFront(70);
+            bicola.EnqueueFront(150);
+
+            //Console.WriteLine("Extraer elemento desde la parte posterior:");
+            Console.WriteLine(bicola.DequeueRear());
+            Console.WriteLine(bicola.DequeueRear());
+
             //Console.WriteLine("Elemento eliminado de la cola posterior: " + bicola.DequeueRear());
 
             // Verificar si la bicola está vacía
