@@ -1,0 +1,14 @@
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\epion\Downloads\Estructura T2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana06\T1_Iparragurre\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
