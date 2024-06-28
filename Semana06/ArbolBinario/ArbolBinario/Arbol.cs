@@ -42,8 +42,7 @@ namespace ArbolBinario
                 {
                     agregarNodoArbol(nodo.izquierda, nuevoNodo);
                 }
-            } else
-            {
+            } else {
                 if (nodo.derecha == null)
                 {
                     nodo.derecha = nuevoNodo;
@@ -57,12 +56,71 @@ namespace ArbolBinario
 
         public void imprimir()
         {
+            PostOrden(raiz);
+        }
 
+        private void InOrden(Nodo nodo)
+        {
+            if(nodo == null)
+            {
+                return;
+            }
+            InOrden(nodo.izquierda);
+            Console.Write(nodo.toCadena() + " ");
+            InOrden(nodo.derecha);
+        }
+
+        private void PreOrden(Nodo nodo)
+        {
+            if (nodo == null)
+            {
+                return;
+            }
+            Console.Write(nodo.toCadena() + " ");
+            PreOrden(nodo.izquierda);
+            PreOrden(nodo.derecha);
+        }
+
+        private void PostOrden(Nodo nodo)
+        {
+            if (nodo == null)
+            {
+                return;
+            }
+            PostOrden(nodo.izquierda);
+            PostOrden(nodo.derecha);
+            Console.Write(nodo.toCadena() + " ");
         }
 
         public void mostrarAlumnos(int nota)
         {
+            if(raiz == null)
+            {
+                Console.WriteLine("No existe nodos.");
+                return;
+            }
+            mostrarAlumnosRecursivo(raiz,nota);
+        }
 
+        public void mostrarAlumnosRecursivo(Nodo nodo, int nota)
+        {
+            if (raiz == null)
+            {
+                return;
+            }
+            if (nodo.nota == nota)
+            {
+                Console.WriteLine(nodo.toCadena());
+                return;
+            }
+            if(nota < nodo.nota)
+            {
+                mostrarAlumnosRecursivo(nodo.izquierda,nota);
+            } 
+            else
+            {
+                mostrarAlumnosRecursivo(nodo.derecha, nota);
+            }
         }
     }
 }
