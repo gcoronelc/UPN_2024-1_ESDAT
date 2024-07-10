@@ -25,12 +25,12 @@ namespace T3Ejercicio
                 {
                     case 1:
                         Console.WriteLine();
-                        ListaRutasv.MostrarRutas("Buenos Aires", "Villa María");
+                        ListaRutasv.MostrarRutas("A Buenos Aires", "C Rosario");
                         Console.WriteLine();
                         break;
                     case 2:
                         Console.WriteLine();    
-                        ListaRutasv.MostrarCaminoMasCorto("Buenos Aires", "Villa María");
+                        ListaRutasv.MostrarCaminoMasCorto("A Buenos Aires", "C Rosario");
                         Console.WriteLine();
                         break;
                     case 3:
@@ -44,20 +44,20 @@ namespace T3Ejercicio
         }
         static void InicializarGrafo(Grafo grafo)
         {
-            Nodo buenosAires = grafo.AgregarNodo("Buenos Aires");
-            Nodo sanPedro = grafo.AgregarNodo("San Pedro");
-            Nodo rosario = grafo.AgregarNodo("Rosario");
-            Nodo villaMaria = grafo.AgregarNodo("Villa María");
-            Nodo sanLuis = grafo.AgregarNodo("San Luis");
-            Nodo bahiaBlanca = grafo.AgregarNodo("Bahía Blanca");
-            grafo.AgregarArista("Buenos Aires", "San Pedro");
-            grafo.AgregarArista("San Pedro", "Rosario");
-            grafo.AgregarArista("Rosario", "Villa María");
-            grafo.AgregarArista("Buenos Aires", "San Luis");
-            grafo.AgregarArista("San Luis", "Villa María");
-            grafo.AgregarArista("Buenos Aires", "Bahía Blanca");
-            grafo.AgregarArista("Bahía Blanca", "San Luis");
-            grafo.AgregarArista("San Luis", "Villa María");
+            Nodo buenosAires = grafo.AgregarNodo("A Buenos Aires");
+            Nodo sanPedro = grafo.AgregarNodo("B San Pedro");
+            Nodo rosario = grafo.AgregarNodo("C Rosario");
+            Nodo villaMaria = grafo.AgregarNodo("D Villa María");
+            Nodo sanLuis = grafo.AgregarNodo("E San Luis");
+            Nodo bahiaBlanca = grafo.AgregarNodo("F Bahía Blanca");
+            grafo.AgregarArista("A Buenos Aires", "B San Pedro");
+            grafo.AgregarArista("B San Pedro", "C Rosario");
+            grafo.AgregarArista("C Rosario", "D Villa María");
+            grafo.AgregarArista("A Buenos Aires", "E San Luis");
+            grafo.AgregarArista("E San Luis", "D Villa María");
+            grafo.AgregarArista("A Buenos Aires", "F Bahía Blanca");
+            grafo.AgregarArista("F Bahía Blanca", "E San Luis");
+            grafo.AgregarArista("A Buenos Aires", "D Villa María");
         }
     }
 }

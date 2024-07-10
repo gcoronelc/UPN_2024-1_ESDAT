@@ -1,0 +1,10 @@
+- Problema
+- Plantear la solucion
+- Arquitectura
+- Implementacion
+- Pruebas de funcionamiento
+- Lecciones aprendidas
+- Conclusiones
+- Recomendaciones
+
+Tiempo de exposicion: 15 min maximo

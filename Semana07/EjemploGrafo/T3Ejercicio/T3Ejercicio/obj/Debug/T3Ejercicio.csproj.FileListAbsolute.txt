@@ -5,3 +5,10 @@ C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj
 C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.CoreCompileInputs.cache
 C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.exe
 C:\Users\Enano\source\repos\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe.config
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\bin\Debug\T3Ejercicio.pdb
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.AssemblyReference.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.csproj.CoreCompileInputs.cache
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.exe
+D:\ProfesorCoronel\UPN_2024-1_ESDAT\Semana07\EjemploGrafo\T3Ejercicio\T3Ejercicio\obj\Debug\T3Ejercicio.pdb
